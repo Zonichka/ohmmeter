@@ -1,0 +1,4 @@
+function Stop
+    pause();
+end
+
